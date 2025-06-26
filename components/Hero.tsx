@@ -170,8 +170,8 @@ export default function Hero() {
                                         key={category}
                                         onClick={() => setSelectedCategory(category)}
                                         className={`px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 ${selectedCategory === category
-                                                ? 'bg-amber-500 text-white'
-                                                : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                                            ? 'bg-amber-500 text-white'
+                                            : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                                             }`}
                                     >
                                         {category}

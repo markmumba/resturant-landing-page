@@ -48,12 +48,12 @@ export default function About() {
                                     Founded in 2010, Savor & Soul began as a dream in the heart of our head chef,
                                     Chef Wanjiku Kamau. With over 20 years of culinary experience spanning from
                                     traditional Kenyan recipes to modern fusion cuisine, Chef Wanjiku brings a unique
-                                    blend of flavors that celebrates the rich diversity of Kenya's culinary heritage.
+                                    blend of flavors that celebrates the rich diversity of Kenya&apos;s culinary heritage.
                                 </p>
                                 <p className="text-lg leading-relaxed text-gray-700">
                                     Every dish we serve is crafted with love, using locally sourced ingredients
-                                    from Kenya's fertile highlands and time-honored techniques passed down through generations.
-                                    Our kitchen is more than a place to cook—it's a sanctuary where tradition meets innovation.
+                                    from Kenya&apos;s fertile highlands and time-honored techniques passed down through generations.
+                                    Our kitchen is more than a place to cook—it&apos;s a sanctuary where tradition meets innovation.
                                 </p>
                             </div>
 

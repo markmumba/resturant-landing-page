@@ -255,13 +255,13 @@ export default function Hero() {
                                     Online Reservations Launching Soon!
                                 </h3>
                                 <p className="text-gray-600 mb-6 leading-relaxed">
-                                    We're working hard to bring you the ultimate dining experience with our new online reservation system.
+                                    We&apos;re working hard to bring you the ultimate dining experience with our new online reservation system.
                                     Get ready to book your table with just a few clicks!
                                 </p>
                             </div>
 
                             <div className="bg-gradient-to-r from-amber-50 to-orange-50 p-6 rounded-xl border border-amber-200 mb-6">
-                                <h4 className="text-lg font-semibold text-amber-800 mb-3">What's Coming:</h4>
+                                <h4 className="text-lg font-semibold text-amber-800 mb-3">What&apos;s Coming:</h4>
                                 <ul className="text-left text-gray-700 space-y-2">
                                     <li className="flex items-center">
                                         <span className="text-amber-500 mr-2">✓</span>
@@ -353,7 +353,7 @@ export default function Hero() {
                                 </h3>
                                 <p className="text-gray-600 mb-6 leading-relaxed">
                                     Call us directly or message us on WhatsApp for quick and easy ordering.
-                                    We'll have your delicious meal ready in no time!
+                                    We&apos;ll have your delicious meal ready in no time!
                                 </p>
                             </div>
 

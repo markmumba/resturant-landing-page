@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
         role: "Food Critic",
         image: "/testimonial-3.jpg",
         rating: 5,
-        review: "As a food critic, I've dined at hundreds of restaurants across Kenya. Savor & Soul stands out for their attention to detail and authentic flavors. The Mukimo with grilled fish is a masterpiece.",
+        review: "As a food critic, I&apos;ve dined at hundreds of restaurants across Kenya. Savor & Soul stands out for their attention to detail and authentic flavors. The Mukimo with grilled fish is a masterpiece.",
         date: "3 weeks ago"
     },
     {
@@ -118,7 +118,7 @@ export default function Testimonials() {
                             What Our <span className="text-amber-400">Guests</span> Say
                         </h2>
                         <p className="text-xl text-gray-200 max-w-3xl mx-auto">
-                            Don't just take our word for it. Here's what our valued customers have to say
+                            Don&apos;t just take our word for it. Here&apos;s what our valued customers have to say
                             about their dining experience at Savor & Soul.
                         </p>
                         <div className="w-24 h-1 bg-gradient-to-r from-amber-400 to-red-500 mx-auto mt-6"></div>
@@ -142,7 +142,7 @@ export default function Testimonials() {
 
                                 {/* Review Text */}
                                 <blockquote className="text-lg leading-relaxed text-gray-200 mb-6 italic">
-                                    "{testimonial.review}"
+                                    &quot;{testimonial.review}&quot;
                                 </blockquote>
 
                                 {/* Customer Info */}
